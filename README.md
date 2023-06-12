@@ -10,7 +10,7 @@
 
 - [X] [Emojis](#Emojis)
 
-- [ ] [Tables](#Table)
+- [X] [Tables](#Table)
 
 ## External links ##
 
@@ -22,7 +22,7 @@ Link to [Images folder](/images)
 
 ## Images ##
 
-![image](/images/logo.png)
+![cat-image](/images/logo.png)
 
 ## Emojis ##
 
@@ -30,6 +30,9 @@ Emoji here :blush:
 
 ## Table ##
 
-Table to be added here
 
+| Names | Class |
+| ----- | ----- |
+| ----- | ----- |
+| ----- | ----- |
 
