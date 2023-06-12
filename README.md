@@ -2,21 +2,25 @@
 
 ## Checkboxes ##
 
-- [ ] External link
+- [X] [External link](#External-links)
 
-- [ ] Internal link
+- [X] [Internal link](#Internal-Links)
 
-- [ ] Images
+- [X] [Images](#Images)
 
-- [ ] Emojis
+- [X] [Emojis](#Emojis)
 
-- [ ] Tables
+- [ ] [Tables](#Table)
 
-## External/Internal links ##
+## External links ##
 
 External link to [Github Documentation](https://help.github.com/en)
 
+## Internal links ##
+
 Link to [Images folder](/images)
+
+## Images ##
 
 ![image](/images/logo.png)
 
