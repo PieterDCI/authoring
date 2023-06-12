@@ -1,14 +1,14 @@
 # Github flavoured Markdown #
 
-[ ] External link
+- [ ] External link
 
-[ ] Internal link
+- [ ] Internal link
 
-[ ] Images
+- [ ] Images
 
-[ ] Emojis
+- [ ] Emojis
 
-[ ] Tables
+- [ ] Tables
 
 External link to [Github Documentation](https://help.github.com/en)
 
